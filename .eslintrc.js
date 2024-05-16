@@ -8,14 +8,8 @@ module.exports = {
     jest: true,
   },
   plugins: ['prettier', 'react'],
-  extends: [
-    'plugin:@typescript-eslint/recommended',
-    'eslint:recommended',
-    'plugin:react/recommended',
-    'plugin:prettier/recommended',
-    'prettier',
-  ],
-  parser: '@typescript-eslint/parser',
+  extends: ['eslint:recommended', 'plugin:react/recommended', 'plugin:prettier/recommended', 'prettier'],
+  // parser: '@babel/eslint-parser',
   parserOptions: {
     ecmaFeatures: {
       jsx: true,

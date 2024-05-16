@@ -9,7 +9,7 @@
 </div>
 
 <p align="center" style="width: 90%; margin: 0 auto">
-A simple easy used <b>React Firebase</b> auth example with additionally with Google Sign in. Feel free to use the code in your <b>React</b> project to start with <b>Firebase</b> auth.
+A simple easy used <b>React Firebase</b> auth example with additionally Google Sign in. Feel free to use the code in your <b>React</b> project to start with <b>Firebase</b> auth.
 </p>
 
 ## 📦 Installation 

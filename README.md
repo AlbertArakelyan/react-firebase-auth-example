@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </div>
 
+<p align="center">
 A simple easy used **React Firebase** auth example with additionally with Google Sign in. Feel free to use the code in your **React** project to start with **Firebase** auth.
+</P
 
 ## 📦 Installation 
 
